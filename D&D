@@ -1,0 +1,41 @@
+
+===The Sylvan Hermitree===
+''Warlock Subclass''
+Your patron is a massive aspect of nature, the most powerful aspect in existence called the Sylvan Hermitree. It can implant itself in any forest, and only appears to those who are worthy of worshiping it. It contains vast knowledge of plants, beasts, and natural objects, and has many nature-based powers. Only one of these is known to exist, and it is extremely rare that one would come across it. It is completely immortal, and it's goal is to take back the entire world for what it once was: Completely natural, with no man-made objects whatsoever.
+
+{| class="5e" {{#vardefine:odd|0}}
+|+ Sylvan Hermitree Expanded Spell List
+|-
+! style="padding-left:0.5em;padding-right:0.5em" | Spell Level !! style="text-align:left;padding-left:0.5em;padding-right:0.5em" | Spells
+|- class="{{Odd-Even|{{#var:odd}}}}"
+| 1st || style="text-align:left;padding-left:0.5em;padding-right:0.5em" | [[5e SRD:Find Familiar|''find familiar'']], [[5e SRD:Ensnaring Strike|''ensnaring strike'']]
+|- class="{{Odd-Even|{{#var:odd}}}}"
+| 2nd || style="text-align:left;padding-left:0.5em;padding-right:0.5em" | [[5e SRD:Barkskin|''barkskin'']], [[5e SRD:Web|''web'']]
+|- class="{{Odd-Even|{{#var:odd}}}}"
+| 3rd || style="text-align:left;padding-left:0.5em;padding-right:0.5em" | ''erupting earth'', [[5e SRD:Conjure Beasts|''conjure beasts'']]
+|- class="{{Odd-Even|{{#var:odd}}}}"
+| 4th || style="text-align:left;padding-left:0.5em;padding-right:0.5em" | [[5e SRD:Dominate Beast|''dominate beast'']], [[5e SRD:Giant Insect|''giant insect'']]
+|- class="{{Odd-Even|{{#var:odd}}}}"
+| 5th || style="text-align:left;padding-left:0.5em;padding-right:0.5em" | ''wrath of nature'', [[5e SRD:Insect Plague|''insect plague'']]
+|}
+
+;Nature's Intellect
+Starting at 1st level, you can learn everything about any one creature within 60 feet of you. Examples could be it’s armor class, why it’s there, where it came from. Once you use this feature, you cannot use it again until you finish a short or long rest.
+
+;Elemental Eruption
+Starting at 6th level, you can summon 1d3 earth elementals to help you with any task. You roll initiative for them, and you command them verbally. If you don’t give them a command, they defend themselves from hostile creatures. They disappear after 10 minutes.
+
+;Terraformed Magic
+Beginning at 10th level, your patron bestows you with more powerful defense methods. Your Barkskin spell increases your armor class to 17 instead of 16. At 12th level, it increases to 18, at 15th level, it increases to 19, and at 19th level, it increases to 20. It’s duration extends to 5 hours. If you did not choose the Barkskin spell from the extended spell list, you can use an action to have vines wrap around you and protect you from incoming attacks. While you are wrapped in vines, your armor class increases by 5. Your movement speed is decreased by 10, and you are vulnerable to fire damage. The vines disappear after an hour and you can dismiss them at any time before that. You do not need to eat, drink, or breathe while wrapped in the vines. You can use this action three times per short or long rest.
+
+;Rampant Growth
+Starting at 14th level, you can bend the landscape to its limits. As an action, you can cause trees to grow together, cause rocks to shoot out of the ground, or cause any other aspect of nature to do whatever you want. Once you use this ability, you have control over whatever terrain you are in (forest, mountain, ocean) for 30 minutes. Once you use this feature, you cannot use it for 3 days.
+
+----
+{{5e Subclasses Breadcrumb}}
+[[Category:Warlock]]
+
+[[Category:5e]]
+[[Category:DnD]]
+[[Category:User]]
+[[Category:Subclass]]
